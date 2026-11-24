@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://alemjarebica-cloud.github.io/ML-flyrank-AlemJ/
